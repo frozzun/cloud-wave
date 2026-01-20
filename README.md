@@ -1,2 +1,2 @@
-# 1. Streamlit Sample Project
+# 1. Service Architecture
 ![alt text](image.png)
